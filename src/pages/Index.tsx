@@ -6,7 +6,7 @@ import StockChart from '@/components/StockChart';
 import PerformanceMetric from '@/components/PerformanceMetric';
 import FeaturedAnalysis from '@/components/FeaturedAnalysis';
 import Footer from '@/components/Footer';
-import { Button } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
 import { marketMetrics, featuredStocks } from '@/lib/mockData';
 
 const Index = () => {
